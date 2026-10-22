@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069362292398",
+    "project_id": "quickalertfatec",
+    "storage_bucket": "quickalertfatec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069362292398:android:8f4c0d3855a2abf84f6f3f",
+        "android_client_info": {
+          "package_name": "com.example.qa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_xpRFXBT77bTIQa_avl-66bZTXLdxEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Guardião</string>
+    <string name="subtitulo">Seja bem vindo ao seu botão de socorro amigo</string>
+    <string name="titulocx1">Tenho um botão</string>
+    <string name="subtitulocx1">Para quem precisa de ajuda em casa</string>
+    <string name="titulocx2">Quero receber alertas</string>
+    <string name="subtitulocx2">Para familiares e cuidadores</string>
+
+
+    <!--    pagina: colocarcodigo:-->
+
+    <string name="conectar">Conectar meu botão</string>
+    <string name="passo">Passo simples</string>
+    <string name="ondeestaco">O código de conexão está impresso em uma etiqueta colada atrás do seu dispositivo ESP32</string>
+    <string name="inserircodigo">Coloque o código aqui</string>
+
+    <!--    pagina botaoConectado-->
+    <string name="subtitulo2">Tudo certo! Seu botão de socorro já esta pronto! Agora você já pode gerar o Token para compartilhar com amigos e familiares.</string>
+    <string name="continuar">Gerar Token de compartilhamento</string>
+
+    <!--    pagina token-->
+    <string name="seutoken">Compartilhe esse Token com quem vai ajudar você.</string>
+    <string name="copiar">Clique no botão abaixo para copiar o Token para sua área de transferência</string>
+
+    <!--    pagina cuidador-->
+    <string name="pacacodigo">Peça o Token para pessoa que você irá auxiliar e insira no campo abaixo</string>
+    <string name="inserirtoken">Coloque o Token aqui</string>
+    <string name="conectar2">Conectar-se</string>
+
+    <!--    pagina vinculo-->
+    <string name="vinculo">Vinculo criado com sucesso!</string>
+    <string name="receberaalertas">Tudo certo! Você receberá alertas quando o botão for pressionado!</string>
+    <string name="historico">Ver histórico de alertas</string>
+</resources>
