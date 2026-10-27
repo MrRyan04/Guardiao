@@ -26,12 +26,12 @@ Ao pressionar o botão físico de acionamento do dispositivo, uma requisição �
 
 ## Tecnologias Utilizadas
 
-### Hardware & Firmware
+### Botão
 - **ESP32** (Microcontrolador Wi-Fi)
 - **C++** (Código-fonte gravado na ESP32)
 - **Arduino IDE** (Ambiente de desenvolvimento)
 
-### Mobile & Backend
+### App
 - **Kotlin** (Linguagem principal do App)
 - **Android Studio** (IDE para desenvolvimento Android)
 - **Firebase Firestore** (Banco de dados NoSQL em nuvem)
